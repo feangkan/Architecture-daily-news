@@ -1,0 +1,32 @@
+{
+  "_note": "RSS/Atom feeds. 'type' gives a small score bonus to that topic. Add or remove freely. Google News search feeds work for any keyword query.",
+  "feeds": [
+    {"name": "ArchDaily", "url": "https://www.archdaily.com/feed", "type": "general"},
+    {"name": "Dezeen Architecture", "url": "https://www.dezeen.com/architecture/feed/", "type": "general"},
+    {"name": "Dezeen Technology", "url": "https://www.dezeen.com/technology/feed/", "type": "tools"},
+    {"name": "Dezeen Sustainability", "url": "https://www.dezeen.com/sustainability/feed/", "type": "sustainable"},
+    {"name": "designboom Architecture", "url": "https://www.designboom.com/architecture/feed/", "type": "general"},
+    {"name": "Archinect News", "url": "https://archinect.com/feed/1/news", "type": "general"},
+    {"name": "The Architect's Newspaper", "url": "https://www.archpaper.com/feed/", "type": "general"},
+    {"name": "ArchitectureAU", "url": "https://architectureau.com/rss/", "type": "general"},
+    {"name": "Architectural Record", "url": "https://www.architecturalrecord.com/rss/topic/2617", "type": "general"},
+    {"name": "Parametric Architecture", "url": "https://parametric-architecture.com/feed/", "type": "computational"},
+    {"name": "AEC Magazine", "url": "https://aecmag.com/feed/", "type": "tools"},
+    {"name": "Architosh", "url": "https://architosh.com/feed/", "type": "tools"},
+    {"name": "Rhino News", "url": "https://blog.rhino3d.com/feeds/posts/default", "type": "tools"},
+    {"name": "MIT News – Architecture", "url": "https://news.mit.edu/rss/topic/architecture", "type": "research"},
+    {"name": "Automation in Construction (journal)", "url": "https://rss.sciencedirect.com/publication/science/09265805", "type": "research"},
+    {"name": "Building and Environment (journal)", "url": "https://rss.sciencedirect.com/publication/science/03601323", "type": "research"},
+    {"name": "arXiv – architecture & fabrication", "url": "https://export.arxiv.org/api/query?search_query=abs:%22architectural%20design%22%20OR%20abs:%22robotic%20fabrication%22%20OR%20abs:%22building%20design%22&sortBy=submittedDate&sortOrder=descending&max_results=25", "type": "research"},
+    {"name": "Dezeen Jobs", "url": "https://www.dezeenjobs.com/feed/", "type": "jobs"},
+    {"name": "Google News – architect hiring Australia", "url": "https://news.google.com/rss/search?q=architecture+firm+hiring+OR+jobs+Australia+when:2d&hl=en-AU&gl=AU&ceid=AU:en", "type": "jobs"},
+    {"name": "Google News – architecture jobs market", "url": "https://news.google.com/rss/search?q=%22architecture%22+%22jobs%22+OR+%22billings%22+OR+%22layoffs%22+when:2d&hl=en-US&gl=US&ceid=US:en", "type": "jobs"},
+    {"name": "Google News – computational design", "url": "https://news.google.com/rss/search?q=%22computational+design%22+OR+%22parametric+design%22+architecture+when:3d&hl=en-AU&gl=AU&ceid=AU:en", "type": "computational"},
+    {"name": "Google News – AI agents architecture", "url": "https://news.google.com/rss/search?q=%22AI%22+architects+OR+architecture+design+agents+when:2d&hl=en-US&gl=US&ceid=US:en", "type": "agentic"},
+    {"name": "Google News – robotic construction", "url": "https://news.google.com/rss/search?q=%22robotic+fabrication%22+OR+%223D+printed+building%22+OR+%22construction+robotics%22+when:3d&hl=en-US&gl=US&ceid=US:en", "type": "fabrication"},
+    {"name": "Google News – mass timber & low carbon", "url": "https://news.google.com/rss/search?q=%22mass+timber%22+OR+%22embodied+carbon%22+building+when:2d&hl=en-AU&gl=AU&ceid=AU:en", "type": "sustainable"},
+    {"name": "Google News – adaptive reuse retrofit", "url": "https://news.google.com/rss/search?q=%22adaptive+reuse%22+OR+%22building+retrofit%22+when:3d&hl=en-AU&gl=AU&ceid=AU:en", "type": "retrofit"},
+    {"name": "Google News – climate resilient architecture", "url": "https://news.google.com/rss/search?q=%22climate+resilient%22+OR+%22climate+adaptation%22+architecture+OR+building+when:3d&hl=en-US&gl=US&ceid=US:en", "type": "resilience"},
+    {"name": "Google News – architecture Thailand", "url": "https://news.google.com/rss/search?q=architecture+Bangkok+OR+Thailand+design+when:3d&hl=en-TH&gl=TH&ceid=TH:en", "type": "general"}
+  ]
+}

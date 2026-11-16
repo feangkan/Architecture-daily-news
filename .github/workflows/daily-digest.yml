@@ -1,0 +1,62 @@
+name: Architecture daily digest
+
+on:
+  schedule:
+    # 19:30 UTC = 06:30 Melbourne (AEDT, summer) / 05:30 (AEST, winter)
+    - cron: "30 19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install optional AI dependency
+        run: pip install --quiet anthropic
+
+      - name: Collect, rank and write digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -n "$CLAUDE_MODEL" ] || unset CLAUDE_MODEL
+          python scripts/collect.py
+
+      - name: Commit digest and data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add digests data
+          git diff --cached --quiet && { echo "nothing to commit"; exit 0; }
+          git commit -m "Daily digest $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase --quiet && git push && break; sleep 5; done
+
+      - name: Post digest as an issue (GitHub mobile notification)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create daily-digest --color 0E8A16 --description "Automated daily news digest" --force >/dev/null
+          # close yesterday's digest issues so the inbox stays tidy
+          for n in $(gh issue list --label daily-digest --state open --json number -q '.[].number'); do
+            gh issue close "$n" --reason completed >/dev/null || true
+          done
+          body=$(head -c 60000 "$(cat out/digest_path.txt)")
+          printf '%s\n\ncc @%s\n' "$body" "${{ github.repository_owner }}" > out/issue.md
+          gh issue create --title "$(cat out/issue_title.txt)" --label daily-digest --body-file out/issue.md

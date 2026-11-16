@@ -1,0 +1,68 @@
+{
+  "_note": "Edit this file to tune what the daily digest ranks highly. Weights: 1 = nice to know, 3 = core interest. Keywords match title (counts x2) and summary, case-insensitive.",
+  "owner": "Kankawee",
+  "timezone": "Australia/Melbourne",
+  "job_locations": ["Melbourne", "Victoria", "Australia", "Sydney", "Bangkok", "Thailand", "Singapore", "Remote"],
+  "job_roles": ["architect", "graduate architect", "computational designer", "design technologist", "architectural designer", "BIM", "research assistant", "parametric designer", "fabrication"],
+  "topics": {
+    "computational": {
+      "label": "Computational design",
+      "weight": 3,
+      "keywords": ["computational", "parametric", "grasshopper", "rhino", "generative design", "algorithmic", "scripting", "python", "digital twin", "simulation", "optimisation", "optimization", "geometry", "topology optimization", "voxel"]
+    },
+    "agentic": {
+      "label": "Agentic / AI architecture",
+      "weight": 3,
+      "keywords": ["agentic", "ai agent", "ai agents", "multi-agent", "agent-based", "llm", "large language model", "generative ai", "machine learning", "diffusion model", "artificial intelligence", " ai ", "ai-driven", "ai-powered", "chatgpt", "claude", "copilot", "autonomous"]
+    },
+    "fabrication": {
+      "label": "Digital fabrication & robotics",
+      "weight": 3,
+      "keywords": ["digital fabrication", "robotic", "robot", "kuka", "3d print", "3d-print", "additive manufacturing", "cnc", "prefab", "prefabrication", "modular construction", "off-site", "offsite", "construction robotics", "automation in construction", "mass customisation", "mass customization"]
+    },
+    "sustainable": {
+      "label": "Sustainability & low carbon",
+      "weight": 3,
+      "keywords": ["sustainable", "sustainability", "low carbon", "low-carbon", "embodied carbon", "net zero", "net-zero", "carbon neutral", "mass timber", "timber", "clt", "bio-based", "biobased", "hempcrete", "rammed earth", "circular", "reuse", "passivhaus", "passive house", "life cycle", "lca", "green star", "nabers"]
+    },
+    "ecology": {
+      "label": "Ecology & landscape",
+      "weight": 2,
+      "keywords": ["ecology", "ecological", "biodiversity", "landscape", "nature-based", "biophilic", "rewilding", "urban forest", "green infrastructure", "wetland", "habitat", "regenerative", "living building", "mycelium", "biomaterial"]
+    },
+    "resilience": {
+      "label": "Climate resilience",
+      "weight": 2,
+      "keywords": ["resilience", "resilient", "climate adaptation", "adaptation", "flood", "flooding", "bushfire", "wildfire", "heat island", "extreme heat", "sea level", "disaster", "cyclone", "drought", "climate risk"]
+    },
+    "retrofit": {
+      "label": "Retrofit & adaptive reuse",
+      "weight": 2,
+      "keywords": ["retrofit", "adaptive reuse", "adaptive re-use", "refurbishment", "renovation", "transformation", "conversion", "heritage", "deep energy retrofit", "office-to-residential", "repurpose", "repurposed"]
+    },
+    "research": {
+      "label": "New research",
+      "weight": 2,
+      "keywords": ["research", "study", "researchers", "paper", "journal", "university", "phd", "laboratory", "lab", "arxiv", "findings", "prototype", "experiment"]
+    },
+    "tools": {
+      "label": "Tools for architects",
+      "weight": 2,
+      "keywords": ["software", "plugin", "plug-in", "release", "update", "revit", "archicad", "rhino 8", "rhino 9", "grasshopper", "speckle", "blender", "unreal", "twinmotion", "enscape", "d5 render", "autodesk", "bentley", "nvidia", "open source", "app", "workflow", "bim"]
+    },
+    "jobs": {
+      "label": "Hiring & careers",
+      "weight": 3,
+      "keywords": ["hiring", "job", "jobs", "vacancy", "vacancies", "recruit", "recruiting", "position", "opening", "career", "careers", "graduate program", "internship", "layoffs", "workforce", "salary", "salaries", "employment"]
+    },
+    "trends": {
+      "label": "Global trends",
+      "weight": 1,
+      "keywords": ["trend", "trends", "market", "forecast", "report", "survey", "billings", "index", "housing", "policy", "regulation", "code", "competition", "award", "biennale", "prize", "pritzker"]
+    }
+  },
+  "negative_keywords": ["sponsored", "giveaway", "horoscope", "celebrity home", "real estate listing"],
+  "max_items_in_digest": 30,
+  "max_items_for_ai": 60,
+  "lookback_hours": 36
+}
