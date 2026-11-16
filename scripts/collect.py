@@ -300,14 +300,14 @@ def ai_digest(items: list[dict], profile: dict) -> dict | None:
         {"id": i["id"], "title": i["title"], "source": i["source"], "tags": i["tags"], "score": i["score"], "text": i["summary"][:400]}
         for i in items[: profile.get("max_items_for_ai", 60)]
     ]
-    model = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
+    model = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")
     client = anthropic.Anthropic()
     kwargs = dict(
         model=model,
         max_tokens=16000,
         system=AI_SYSTEM.format(locations=", ".join(profile.get("job_locations", []))),
         messages=[{"role": "user", "content": "Today's items:\n" + json.dumps(payload, ensure_ascii=False)}],
-        output_config={"effort": "medium", "format": {"type": "json_schema", "schema": AI_SCHEMA}},
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": AI_SCHEMA}},
     )
     try:
         try:

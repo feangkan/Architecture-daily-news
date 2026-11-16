@@ -30,7 +30,7 @@ It runs on **GitHub Actions** every morning (≈ 06:30 Melbourne), so no laptop 
    name (e.g. `arch-daily-k7q93x`), then in GitHub → Settings → Secrets and variables → Actions → *New repository secret*:
    `NTFY_TOPIC` = that name. Tapping the push opens the full digest.
 3. **Optional: AI summaries:** add the secret `ANTHROPIC_API_KEY` (from console.anthropic.com).
-   The default model is `claude-opus-5-5`; to change it, set an Actions *variable* `CLAUDE_MODEL`.
+   The default model is `claude-haiku-5-5` (cheapest, low effort); to change it, set an Actions *variable* `CLAUDE_MODEL`.
 4. **Optional: Telegram:** secrets `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`.
 
 Run it any time: **Actions → Architecture daily digest → Run workflow** (works from the GitHub mobile app too).
