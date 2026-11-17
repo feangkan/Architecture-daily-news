@@ -1,91 +1,156 @@
-# Architecture Daily — Monday 16 November 2026 (issue #0)
+# Architecture Daily — Tuesday 17 November 2026
 
-**Headline:** "Agent-native" design software has moved from demos to products (Formas.AI Cartesian, Motif Design, Snaptrude agents), while US billings keep falling and Australian hiring stays selective.
+**Headline:** Agent-based simulation for optimal planning of human-robot collaboration considering worker fatigue
 
-This first issue was put together by hand from web searches while the automated pipeline was being set up. From tomorrow, the GitHub Action writes the digest automatically at about 06:30 Melbourne time. Items marked _(background)_ are older than this week but still useful context.
+_30 new relevant items from 633 fetched · ranked for: computational · agentic · fabrication · sustainability · ecology · resilience · retrofit · research · tools · jobs · keyword-ranked_
 
 ## ⭐ Top 5 today
 
-1. ★★★ **[Formas.AI unveils native agentic 3D modeller "Cartesian"](https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/)** — AEC Magazine
-   - Early-stage design platform built on its own CAD kernel and geometry toolkit designed *for AI agents*. Wider desktop access opened from 31 October 2026; it orchestrates several frontier models.
-   - _Why it matters:_ This is agentic architecture as a product, not a research topic. Agent-driven geometry is the skill employers will start asking about.
-2. ★★★ **[ABI September 2026: architecture firm billings slump deepens](https://aia.org/resource-center/abi-september-2026-architecture-firm-billings-slump-deepens)** — AIA
-   - US billings index fell to 44.7 (from 47.2); design contracts 43.7; firm revenue down about 3% on 2025 and expected flat in 2027. The October figure is due later in November.
-   - _Why it matters:_ This is a leading indicator for global hiring. Expect fewer generalist roles, with specialist skills (computational, sustainability, retrofit) holding value.
-3. ★★★ **[ACA Pulse Check 2026: national key findings](https://aca.org.au/aca-pulse-check-2026-national-key-findings/)** — Association of Consulting Architects (AU)
-   - Australian profession "not in crisis", but pressure is building. Hiring is modest and selective, and redundancies come mostly from too little work.
-   - _Why it matters:_ For graduate and early-career roles in Australia, a specialised portfolio and direct outreach beat mass applications right now.
-4. ★★★ **[Motif introduces Motif Design, an agent-native building design platform](https://www.01net.it/motif-introduces-motif-design-the-first-agent-native-building-design-software-platform/)** — 01net / press release
-   - Modelling and documentation in one shared live workspace, with AI agents as first-class users. The source gives no launch date.
-   - _Why it matters:_ It confirms the "agent-native BIM" category. Worth comparing with Cartesian and Snaptrude.
-5. ★★☆ **[Next-generation Grasshopper: a ground-up rewrite (Rhino beta / WIP)](https://www.rhino3d.com/e-news/0826beta1/)** — McNeel
-   - New solver, data model and interface; Rhino 8 owners get weekly WIP builds.
-   - _Why it matters:_ It is your core computational tool. Learning the new data model early is a cheap way to stand out.
+1. ★★★ **[Agent-based simulation for optimal planning of human-robot collaboration considering worker fatigue](https://www.sciencedirect.com/science/article/pii/S0926580526005509?dgcid=rss_sd_all)** — Automation in Construction (journal)
+2. ★★★ **[Explainable AI-integrated multi-objective optimisation for circular material routing in modular construction](https://www.sciencedirect.com/science/article/pii/S0926580526005534?dgcid=rss_sd_all)** — Automation in Construction (journal)
+3. ★★★ **[Towards generative AI-driven construction scheduling: challenges, opportunities, and agentic AI framework](https://www.sciencedirect.com/science/article/pii/S0926580526005613?dgcid=rss_sd_all)** — Automation in Construction (journal)
+4. ★★★ **[LLM-driven multi-agent decision support system for Fangcang shelter hospital deployment integrating BIM data and regulatory codes](https://www.sciencedirect.com/science/article/pii/S0926580526006151?dgcid=rss_sd_all)** — Automation in Construction (journal)
+5. ★★★ **[Automated end-to-end generation of residential flat layouts using a sustainable performance-conditioned diffusion model](https://www.sciencedirect.com/science/article/pii/S0926580526005649?dgcid=rss_sd_all)** — Automation in Construction (journal)
 
 ## 💡 Suggestions
 
-- **Try one agentic modeller this week** (Cartesian access or the Snaptrude agent beta) and record a 60-second test. It becomes a portfolio or LinkedIn post on "agentic architecture in practice".
-- **Install the Rhino WIP** and rebuild one existing Grasshopper definition in the new Grasshopper. Note what changed in the data model.
-- **Australian job search:** the ACA data says hiring is selective. Target practices doing timber, retrofit or computational work, and pitch the overlap between fabrication and sustainability.
-- **Read the MASSLAM EPD story** for real numbers to quote (−748 kg CO₂e/m³ including biogenic carbon) in sustainability narratives.
-- **Watch the AIA October ABI** (late November) to see whether the decline is easing.
+- Read first: [Agent-based simulation for optimal planning of human-robot collaboration considering worker fatigue](https://www.sciencedirect.com/science/article/pii/S0926580526005509?dgcid=rss_sd_all) (Automation in Construction (journal))
+- Read first: [Explainable AI-integrated multi-objective optimisation for circular material routing in modular construction](https://www.sciencedirect.com/science/article/pii/S0926580526005534?dgcid=rss_sd_all) (Automation in Construction (journal))
+- Read first: [Towards generative AI-driven construction scheduling: challenges, opportunities, and agentic AI framework](https://www.sciencedirect.com/science/article/pii/S0926580526005613?dgcid=rss_sd_all) (Automation in Construction (journal))
 
 ## 🧭 Evaluation
 
-- **Agentic-tool launches are mostly vendor press releases** (Motif, Formas.AI). There are no independent benchmarks yet, so treat claims like "first agent-native" as marketing.
-- **Hiring data is fragmented.** The ACA survey is credible. Recruiter pages (e.g. "2 in 3 Sydney practices hiring") are marketing, and LinkedIn counts lack a method.
-- **Fabrication and mass-timber searches surfaced mostly 2025 or older items.** This week's dated news was thin there, which is exactly why the daily RSS pipeline matters.
-- **Signal:** strong for AI/agentic tools; medium for market data; weak (no fresh items) for robotics and 3D printing today.
-
-## 🎯 Skills / tools to watch
-
-- Agent-driven modelling (Cartesian, Motif, Snaptrude agents)
-- Next-generation Grasshopper data model
-- Rhino.Inside.Revit (bridges computational design and BIM delivery)
-- Embodied-carbon / EPD literacy (LCA numbers in design narratives)
-
-## 💼 Hiring & careers
-
-- ★★★ [ACA Pulse Check 2026 – National key findings](https://aca.org.au/aca-pulse-check-2026-national-key-findings/) — ACA
-- ★★☆ [A pulse check on the profession](https://architectureau.com/articles/a-pulse-check-on-the-profession/) — ArchitectureAU
-- ★★☆ [AU/NZ Architecture and Design Market Report 2026](https://www.bespokecareers.com/architecture-and-design-market-reports-2026/aus/) — Bespoke Careers (recruiter)
-- ★★☆ [Architect jobs in Australia](https://employmenthero.com/jobs/architect/) — Employment Hero: 36 listings, 5 new in 7 days, mostly senior; national median about $96k
-- ★☆☆ [Architect / designer, 3XN Sydney (listing)](https://jobbank.dk/en/job/3152162/3xn-as/architect-designer-sydney) — Jobbank
+- Busiest topics today: New research (30), Digital fabrication & robotics (23), Agentic / AI architecture (15)
+- Ranking is keyword-based. Add an ANTHROPIC_API_KEY secret to get AI summaries and a critical evaluation.
 
 ## 🤖 Agentic / AI architecture
 
-- ★★★ [Formas.AI Cartesian agentic 3D modeller](https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/) — AEC Magazine
-- ★★★ [Motif Design, agent-native building design](https://www.01net.it/motif-introduces-motif-design-the-first-agent-native-building-design-software-platform/) — 01net
-- ★★☆ [Avoice launches AI agents to run architecture studios](https://dezeen.com/2026/07/24/avoice-ai-agents-architecture-studios/) — Dezeen _(Jul 2026)_
-- ★★☆ [How AI agents fit the architecture design workflow](https://www.snaptrude.com/blog/ai-agents-architecture-design-workflow) — Snaptrude _(May 2026; 14 agents in private beta)_
+- ★★☆ [Review of AI agents in engineering design workflows](https://www.sciencedirect.com/science/article/pii/S0926580526005467?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Zoie McCreery, M.Z. Naser  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 22.0</sub>
+- ★★☆ [BIM and AI for optimising energy, economy, and environment in construction projects: Systematic review (2014–2026)](https://www.sciencedirect.com/science/article/pii/S0926580526005182?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Justin Kinda, Fati Zoma, Tégawendé Justin Zaida, Coulidiati Yerpagaba  
+  <sub>Agentic / AI architecture, Tools for architects, Digital fabrication & robotics · score 20.0</sub>
+- ★★☆ [LLM-based Structured Intermediate Representation for building regulation encoding](https://www.sciencedirect.com/science/article/pii/S0926580526005364?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Pinzhang Wu, Avinash Malik, Partha Roop, Robert Amor  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 18.0</sub>
+- ★★☆ [LLM-guided adaptive segmentation of tunnel linings from point clouds](https://www.sciencedirect.com/science/article/pii/S0926580526005868?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Xinghui Tao, Zehao Ye, Guangming Wang, Jelena Ninić, Brian Sheil  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [LLM-based processing of design inspection reports for measuring building design quality](https://www.sciencedirect.com/science/article/pii/S0926580526005765?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Hamada Elshaboury, Fulvio Re Cecconi, Vincenzo Scotti, Luciano Baresi, Enrico De Angelis  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Enabling infrastructure subsystems integration via agentic ontology engineering](https://www.sciencedirect.com/science/article/pii/S0926580526005686?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Mengtian Yin, Sin Ming Wong, Tao Huang, Pieter Pauwels, Liming Xu, Jinying Xu, Ioannis Brilakis  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Integrated GNN-LLM framework for automated task-level safety risk assessment using retrieval-augmented scenario generation](https://www.sciencedirect.com/science/article/pii/S0926580526005601?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Sihoo Yoon, Seokho Chi  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [In situ impact printing with an autonomous legged excavator: System development, integration, and full-scale demonstration](https://www.sciencedirect.com/science/article/pii/S0926580526005236?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Kunaljit Chadha, Filippo A. Spinelli, Lauren Vasey, Grzegorz Malczyk, Ananya Kango, Pok Yin Leung, Marco Hutter, Matthias K  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Generative LLM for adaptive taxonomy-informed multi-label classification in construction safety](https://www.sciencedirect.com/science/article/pii/S0926580526005388?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Qing Shuang, Lujie Qi, Huaiyuan Zhai  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Artificial intelligence for two-dimensional AEC drawing analysis: Systematic and critical review](https://www.sciencedirect.com/science/article/pii/S0926580526005376?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Ifeoluwa Awotunde, Yongwei Shan  
+  <sub>Agentic / AI architecture, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Supporting building thermal resilience in early design stages: A framework integrating machine learning and large language models](https://www.sciencedirect.com/science/article/pii/S0360132326013144?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 1 January 2027 Source: Building and Environment, Volume 307, Part B Author(s): Guangyi Zhang, Yusheng Yang, Jinhao Liu, Qi Zhang, Manuel Correia Guedes, Linxue Li  
+  <sub>Agentic / AI architecture, Climate resilience, New research · score 13.0</sub>
+
+## 🧮 Computational design
+
+- ★★☆ [From natural language to interoperable BIM: Extensible framework for compliance-aware generative design](https://www.sciencedirect.com/science/article/pii/S092658052600508X?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Bo Pang, Jiansong Zhang, Jingyi Lai, Bernard Nartey  
+  <sub>Computational design, Tools for architects, Digital fabrication & robotics · score 20.0</sub>
+- ★★☆ [Typology-preserving low-carbon optimization of campus functional zones using heterogeneous surrogate models](https://www.sciencedirect.com/science/article/pii/S0360132326013223?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 15 January 2027 Source: Building and Environment, Volume 308, Part A Author(s): Jiayang Jiang, Hongyuan Mei, Zihan Yin, Rudi Stouffs, Teng Fei  
+  <sub>Computational design, Sustainability & low carbon, New research · score 19.0</sub>
+- ★★☆ [Integrated viewpoint selection and route optimization for structured-light scanning of complex precast elements](https://www.sciencedirect.com/science/article/pii/S0926580526005959?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Tianze Chen, Dongsheng Li, Zhengtao Yang, Jiepeng Liu, Jiabin Zhao, Shuanshuan Zhang, Xiuming Liu  
+  <sub>Computational design, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Dual-channel optimization of prefabricated construction supply chains using two-stage stochastic programming](https://www.sciencedirect.com/science/article/pii/S092658052600590X?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Zhen-Song Chen, Jie-Qun Ruan, Vineeth Dharmapalan, Mirosław J. Skibniewski  
+  <sub>Computational design, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Inverse design of architectural floorplans with gradient-based optimization of binary subdivision graphs](https://www.sciencedirect.com/science/article/pii/S0926580526005637?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Shaoyi Wang, Ramon Elias Weber  
+  <sub>Computational design, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [Integrating physical intelligence and process simulation for proactive cutter maintenance in tunnel construction](https://www.sciencedirect.com/science/article/pii/S0926580526005133?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): Zhuang Xia, Jiaqi Wang, Yongsheng Li, Limao Zhang  
+  <sub>Computational design, Digital fabrication & robotics, New research · score 16.0</sub>
+- ★★☆ [A simplified dynamic simulation workflow based on spectral measurement data to evaluate daylight-induced non-visual responses](https://www.sciencedirect.com/science/article/pii/S0360132326012977?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 1 January 2027 Source: Building and Environment, Volume 307, Part B Author(s): Elif Ranaer Harputluoğlu, Laura Bellia, Francesca Fragliasso, Francesca Diglio  
+  <sub>Computational design, Tools for architects, New research · score 13.0</sub>
 
 ## 🦾 Digital fabrication & robotics
 
-- ★★☆ [COBOD and TU Braunschweig launch multifunctional robot for shotcrete 3D printing](https://3dprintingindustry.com/news/cobod-and-tu-braunschweig-launch-multifunctional-construction-robot-for-shotcrete-3d-printing-241602/) — 3D Printing Industry _(background)_
-- ★★☆ [Wheel-mounted robots end limits to the size of 3D printed buildings](https://ribaj.com/products/buildbots-stephen-cousins-robot-future-technology-3d-printing-research-london-singapore) — RIBA Journal _(background: NTU and UCL mobile/aerial printing research)_
+- ★★☆ [Robot-ground friction randomization for sim-to-real transfer of a mobile platform in physical AI-enabled construction environments](https://www.sciencedirect.com/science/article/pii/S092658052600614X?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Minguk Kim, Minseong Kim, Youngjib Ham  
+  <sub>Digital fabrication & robotics, New research · score 12.0</sub>
+- ★★☆ [Data-driven robotic assembly and welding for steel structure manufacturing in modular integrated construction](https://www.sciencedirect.com/science/article/pii/S0926580526005911?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Weiwen Jian, Wenyuan Gao, Hao Meng, Changying Xiang  
+  <sub>Digital fabrication & robotics, New research · score 12.0</sub>
 
 ## 🌱 Sustainability & low carbon
 
-- ★★☆ [New data emphasises mass timber's role in low-carbon construction (MASSLAM EPD)](https://archipro.com.au/article/new-data-emphasises-mass-timbers-role-in-low-carbon-construction-australian-sustainable-hardwoods-ash) — ArchiPro AU _(Jul 2025)_
-- ★★☆ [Mass timber punches above its weight in reducing embodied carbon](https://www.bisnow.com/news/san-francisco/sustainability-climate/mass-timber-punches-above-its-weight-in-reducing-buildings-embodied-carbon-footprint-108680) — Bisnow _(background)_
-- ★☆☆ [Climate-friendly wooden buildings in the US and Europe](https://trellis.net/article/climate-friendly-wooden-buildings-u-s-europe) — Trellis: 2,500+ US mass-timber projects
+- ★★☆ [Life cycle assessment of a material-efficient 3D-printed concrete bridge: Comparative sustainability evaluation](https://www.sciencedirect.com/science/article/pii/S0926580526005522?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 1 Author(s): K. Chiranjeevi Reddy, Shreya Mahajan, Likith Koneru, Kolluru V.L. Subramaniam  
+  <sub>Sustainability & low carbon, Digital fabrication & robotics, New research · score 22.0</sub>
+- ★★☆ [Low-Carbon Retrofits of Existing Buildings: Evidence Gaps in Occupant Safeguards, Resilience, Equity, and Life-Cycle Carbon Accounting](https://www.sciencedirect.com/science/article/pii/S0360132326013855?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: Available online 13 November 2026 Source: Building and Environment Author(s): Nahyun Kwon, Sang-Il Yoon, Yonghan Ahn  
+  <sub>Sustainability & low carbon, Climate resilience, New research · score 13.0</sub>
 
-## 🏚️ Retrofit & adaptive reuse
+## 🌊 Climate resilience
 
-- ★★☆ [Building Awards 2026: Retrofit Project of the Year shortlist](https://www.building.co.uk/focus/building-awards-2026-shortlists-retrofit-project-of-the-year/5144060.article) — Building (UK)
-- ★★☆ [5 adaptive reuse projects reducing construction emissions](https://archello.com/news/5-adaptive-reuse-projects-reducing-construction-emissions) — Archello _(Apr 2026)_
-- ★☆☆ [The science and art of adaptive re-use](https://www.fosterandpartners.com/insights/plus-journal/the-science-and-art-of-adaptive-re-use) — Foster + Partners
+- ★★☆ [A weather based thermal stress pre-screening workflow for climate adaptation planning in Osaka](https://www.sciencedirect.com/science/article/pii/S0360132326013193?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 1 January 2027 Source: Building and Environment, Volume 307, Part B Author(s): Xiong Xiao, Yafeng Gao, Rui Guo, Chaoqun Zhuang, Craig Farnham, Jihui Yuan  
+  <sub>Climate resilience, Tools for architects, New research · score 15.0</sub>
 
-## 🛠️ Tools for architects
+## 🔬 New research
 
-- ★★☆ [Rhino beta: next-generation Grasshopper](https://www.rhino3d.com/e-news/0826beta1/) — McNeel
-- ★★☆ [Rhino.Inside.Revit release notes](https://www.rhino3d.com/inside/revit/1.0/reference/release-notes) — McNeel (Revit 2027 support in RC)
-- ★☆☆ [Speckle Connectors 3.8](https://speckle.systems/updates/connectors-3-8/) — Speckle
+- ★★☆ [Performance evaluation of a positive-pressure ventilation system in a radiation protection shelter: Field experiment and computational fluid dynamics analysis](https://www.sciencedirect.com/science/article/pii/S036013232601334X?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 15 January 2027 Source: Building and Environment, Volume 308, Part A Author(s): Chihiro Matsumoto, Takashi Kono, Wataru Maizawa, Jiang Zhang, Chika Yamamoto, Tianchen Zhao, Shinya Fukasawa, Naoko Hashim  
+  <sub>New research, Computational design · score 13.0</sub>
+- ★★☆ [Bedroom environment, sleep quality, and cognitive performance in naturally ventilated student housing: a cross-sectional study at an Indian university](https://www.sciencedirect.com/science/article/pii/S0360132326012011?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: 1 January 2027 Source: Building and Environment, Volume 307, Part B Author(s): Asmita Addya, Asit Kumar Mishra, Anubha Goel, Li Lan, Pawel Wargocki  
+  <sub>New research, Global trends · score 13.0</sub>
 
-## 🌏 Global trends & events
+## 📈 Topic trend (items in last 7 days)
 
-- ★★☆ [Architecture billings index, September 2026](https://aia.org/resource-center/abi-september-2026-architecture-firm-billings-slump-deepens) — AIA
-- ★☆☆ [ArchDaily news](https://www.archdaily.com/architecture-news): Farshid Moussavi gets the 2026 Soane Medal (24 Nov, London); Sharjah Architecture Triennial opens 14–19 Nov; Tallinn Biennale "How Much?" runs to 30 Nov; COP31 in Antalya, 9–20 Nov; Powerhouse Parramatta opened 7 Nov.
+| Topic | Count |
+|---|---|
+| Computational design | 15 |
+| Agentic / AI architecture | 20 |
+| Digital fabrication & robotics | 90 |
+| Sustainability & low carbon | 8 |
+| Ecology & landscape | 7 |
+| Climate resilience | 8 |
+| Retrofit & adaptive reuse | 4 |
+| New research | 179 |
+| Tools for architects | 15 |
+| Hiring & careers | 3 |
+| Global trends | 7 |
+
+<details><summary>Feed errors (15)</summary>
+
+- The Architect's Newspaper: HTTPError: HTTP Error 403: Forbidden
+- Dezeen Sustainability: HTTPError: HTTP Error 404: Not Found
+- ArchitectureAU: ParseError: not well-formed (invalid token): line 56, column 46
+- Dezeen Jobs: HTTPError: HTTP Error 403: Forbidden
+- Google News – architecture jobs market: HTTPError: HTTP Error 429: Too Many Requests
+- Parametric Architecture: ParseError: duplicate attribute: line 8, column 45
+- Archinect News: ParseError: junk after document element: line 704, column 0
+- Google News – mass timber & low carbon: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – robotic construction: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – adaptive reuse retrofit: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – architect hiring Australia: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – AI agents architecture: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – computational design: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – architecture Thailand: HTTPError: HTTP Error 503: Service Unavailable
+- Google News – climate resilient architecture: HTTPError: HTTP Error 503: Service Unavailable
+
+</details>
 
 ---
-_Issue #0 was compiled manually from web search. Automated issues add a topic-trend table and store every item in `data/items/`._
+_Data: every item is stored with its score and tags in `data/items/`. Tune ranking in `config/profile.json`, sources in `config/sources.json`._
