@@ -1,148 +1,151 @@
-# Architecture Daily — Wednesday 25 November 2026
+# Architecture Daily — Thursday 26 November 2026
 
-**Headline:** London Museum brings "back a bit of London's heritage" with Smithfield Market opening
+**Headline:** New plugin - Danio: Agent-Based Evacuation Simulation for Rhino and Grasshopper
 
-_30 new relevant items from 781 fetched · ranked for: computational · agentic · fabrication · sustainability · ecology · resilience · retrofit · research · tools · jobs · keyword-ranked_
+_30 new relevant items from 772 fetched · ranked for: computational · agentic · fabrication · sustainability · ecology · resilience · retrofit · research · tools · jobs · keyword-ranked_
 
 ## ⭐ Top 5 today
 
-1. ★★☆ **[London Museum brings "back a bit of London's heritage" with Smithfield Market opening](https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/)** — Dezeen Architecture
-2. ★★☆ **[Hierarchical geometry-constrained scan-to-BIM framework for floor-level reconstruction from indoor point clouds](https://www.sciencedirect.com/science/article/pii/S0926580526006266?dgcid=rss_sd_all)** — Automation in Construction (journal)
-3. ★★☆ **[SplitSecure Launches New Access Control Architecture for Humans and AI Agents - Analytics Insight](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0Q1eGU0N3NSeHNCZVctWHBzeGFBU2RNdWU3Ym95aWhndlFhb3lCNm5YZjRGZW5jTjNjOEUwUXBOUHkweEJEQ1FIS1I5SGJNcVRjMkctaU0yU2hlZW11c1pjYjJ4Nmp4blBfM3NNc0pfdWF4MV9MNHluVGtYcUE2OXpsYTNJQUhNekhOeFc0djdBaGR0VEJtcmkxaVluWjRpZzAzS3BXUjZmZnFCSzdtNGlBOG5ROHBXeDR2NlUzWkRoUdIBzwFBVV95cUxNbDVLcThHWWg3UmtCVUlZMFZTU2haOFRMQ2d4VTBfVXNvdzd1VUplanB3Wk5tWW5jcjFNeHREUVJScU1aYWpHUTBhbUY2Zy1uR2l0SEdwZEJZNkp3akxka1haYTBjRVJubkROZ1M3WF9rVzBhWDVBaTNQUjRWWUNNSUw4VElxTUhhaUZnODg4ZkFFNUl1LWJtWnZEbjg3SXJaODJjUFR5d1pRTUhrbHpCeFVqVFh5YkF2LUNrZkEtaE1zeVZZcVZWME1JTHNfSUE?oc=5)** — Google News – architecture jobs market
-4. ★★☆ **[SplitSecure Introduces New Access Control Architecture to Secure Human Users and AI Agents - Market.us](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0dKR2FMQUJ2VTJSclNBcTVoV0JBbV9hbkVMSWdBaFhCa3JPeW0wcXBnbkxHY09iY1RTTVVZRzhEckhyN01wR1BhMHRFcWhOXzZiTGxIQmhicDQtQW5uU1Z4R0tmVkN4X1U1S1RUUlYxakI2YWIwTVZzc3Rhc3gyNjF0U0dsdnh4Z1pBbTY4UmcyLURQZk9PNHVuSXM4U0ZyY3MybEZnTGdDRmlIWm5teG1VUVFCUWt6OV9QYmQyWE8?oc=5)** — Google News – AI agents architecture
-5. ★★☆ **[MIT researchers use robotic motion to weave clothing directly around the human body - MIT Media Lab](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzF6S05Ubmt2VUdkbDFjUFZja2x6NHUyckd4cHBVUzd4VEVkRUpyYVA4NnN4T05ia1hXMG5Zdll2akE3dlFZVXhicUMybUp4RmVSdHQxNHNXUXV1MUdlRkViWlJZV05kNWNTMzZPbHNJVFlEcjlaVGtWYmdpSUp6dkxrME52bEFfLUhwY3lzSmctc2hOcDVOb09KSzNNMEcwN3kzbno3czlUbjRLR0NDRmhOWUJpX2dZUEtj?oc=5)** — Google News – robotic construction
+1. ★★★ **[New plugin - Danio: Agent-Based Evacuation Simulation for Rhino and Grasshopper](https://blog.rhino3d.com/2026/11/new-plugin-danio-agent-based-evacuation.html)** — Rhino News
+2. ★★☆ **[Nomic extends AI agents into CAD drafting and BIM](https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/)** — AEC Magazine
+3. ★★☆ **[It Had to Happen: Agentic AI for Analog Design - Electronic Engineering Journal](https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNIcU9xOVRkNTY5b2ZHR3lMX0d1X0JCdHZKcHdQTkZtUXAwV19xQnIwd2Z3MFo5RkFVczFvTXkwNmtnMS1XdUtSOFZPcF9PMUpSalNFVXdLaWpsZS1qRmZSLXBOYXFfT0dKbHY0RnlVTzhkVjlaT0NXOU40U1Z4X1FvWEE1V1U?oc=5)** — Google News – AI agents architecture
+4. ★★☆ **[New McLean & Company Guide Helps HR Accelerate Job Architecture With AI - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFBQZ0E4eUZsTWlFNG9vVTRfNjlPY3VnQkNMaVU0NUZpNHVzRnBPaGhZVmU4Z3JSOWlYUE9fa1JOcGhXMzZ2NEJPNzNMMDlNb2U4U1RYaTJpeG5LR1FHTkpqNHlPNVFjR3h5RjNHTnFZOGJja3ZGVWFkZTZGMDRTWkdTajZZZWs5THdxVDNVVG5jNGNLVWRySg?oc=5)** — Google News – architecture jobs market
+5. ★★☆ **[IrisKey.ai unveils 26-gate control for autonomous AI - IT Brief Australia](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmNkTnVoZXFMY0l5VDdjaUpSdDBkMHdBRllod3A0cUZ6VGZ5N2dXcE12NVFFRVlnaFdtaXZaNmZNTnJ6dGtTaTBXN3V2MlJZY1FlaDJuXzhyeVVHdFNTM3hFOEZsLU1oMHhhT2dSZVp6MnBiZUFhSFJkOUZreGVrTGlEdWlOMkxl?oc=5)** — Google News – AI agents architecture
 
 ## 💡 Suggestions
 
-- Read first: [London Museum brings "back a bit of London's heritage" with Smithfield Market opening](https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/) (Dezeen Architecture)
-- Read first: [Hierarchical geometry-constrained scan-to-BIM framework for floor-level reconstruction from indoor point clouds](https://www.sciencedirect.com/science/article/pii/S0926580526006266?dgcid=rss_sd_all) (Automation in Construction (journal))
-- Read first: [SplitSecure Launches New Access Control Architecture for Humans and AI Agents - Analytics Insight](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0Q1eGU0N3NSeHNCZVctWHBzeGFBU2RNdWU3Ym95aWhndlFhb3lCNm5YZjRGZW5jTjNjOEUwUXBOUHkweEJEQ1FIS1I5SGJNcVRjMkctaU0yU2hlZW11c1pjYjJ4Nmp4blBfM3NNc0pfdWF4MV9MNHluVGtYcUE2OXpsYTNJQUhNekhOeFc0djdBaGR0VEJtcmkxaVluWjRpZzAzS3BXUjZmZnFCSzdtNGlBOG5ROHBXeDR2NlUzWkRoUdIBzwFBVV95cUxNbDVLcThHWWg3UmtCVUlZMFZTU2haOFRMQ2d4VTBfVXNvdzd1VUplanB3Wk5tWW5jcjFNeHREUVJScU1aYWpHUTBhbUY2Zy1uR2l0SEdwZEJZNkp3akxka1haYTBjRVJubkROZ1M3WF9rVzBhWDVBaTNQUjRWWUNNSUw4VElxTUhhaUZnODg4ZkFFNUl1LWJtWnZEbjg3SXJaODJjUFR5d1pRTUhrbHpCeFVqVFh5YkF2LUNrZkEtaE1zeVZZcVZWME1JTHNfSUE?oc=5) (Google News – architecture jobs market)
-- Check the hiring section: 15 item(s) mention jobs or careers.
+- Read first: [New plugin - Danio: Agent-Based Evacuation Simulation for Rhino and Grasshopper](https://blog.rhino3d.com/2026/11/new-plugin-danio-agent-based-evacuation.html) (Rhino News)
+- Read first: [Nomic extends AI agents into CAD drafting and BIM](https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/) (AEC Magazine)
+- Read first: [It Had to Happen: Agentic AI for Analog Design - Electronic Engineering Journal](https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNIcU9xOVRkNTY5b2ZHR3lMX0d1X0JCdHZKcHdQTkZtUXAwV19xQnIwd2Z3MFo5RkFVczFvTXkwNmtnMS1XdUtSOFZPcF9PMUpSalNFVXdLaWpsZS1qRmZSLXBOYXFfT0dKbHY0RnlVTzhkVjlaT0NXOU40U1Z4X1FvWEE1V1U?oc=5) (Google News – AI agents architecture)
+- Check the hiring section: 7 item(s) mention jobs or careers.
 
 ## 🧭 Evaluation
 
-- Busiest topics today: Hiring & careers (15), Sustainability & low carbon (7), Global trends (6)
+- Busiest topics today: Agentic / AI architecture (12), Hiring & careers (7), New research (6)
 - Ranking is keyword-based. Add an ANTHROPIC_API_KEY secret to get AI summaries and a critical evaluation.
 
 ## 💼 Hiring & careers
 
-- ★★☆ [Factbox-Job cuts mount at Australian companies in 2026 By Reuters - Investing.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPenVFZjFYSlplUXVCTmYzV0xCQUlBRlN4YW1BZEhGam9ONUU5WHlCOGtTYzZuUzlUYlVsaDB3b20tU3l4djFuNjlPZldHZWJLU2QtYXhLVTRscHhub3VsUlhvcjNaZVU4cl9rdnpWdWNmSnZ4cFg4S0U1NW9jc3kxRUlYRVpYYXNGbEZSa3dvV3NaSEJJWDVmTHRKLVVxT0UyYkc5RERuQnpDQ2tSZmtZ?oc=5) — Google News – architect hiring Australia  
-  Factbox-Job cuts mount at Australian companies in 2026 By Reuters Investing.com  
-  <sub>Hiring & careers · score 16.5</sub>
-- ★★☆ [Weed-outs and layoffs: How Princeton students have changed their academic and career plans over time - The Daily Princetonian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzRlbXVkQW5zNWE3SzdDY1UzWkZueVBKNjM2YUxpZmFROHRibTFXaUlQSWVXaUowOGtYSS13dFlKR2pRdG50ZDhXMEQxOHZEbUJabjR4SnhlVDFyeGp4M1R3UEN0VDZaTXVhZm5qOUpTQ1JGWVNnNmM0TnIyU2o0eEQ4ZXA0RUx0NWV6T0RfV09kRGJSNmtoVVlfTmlJTzM5SHc?oc=5) — Google News – architecture jobs market  
-  Weed-outs and layoffs: How Princeton students have changed their academic and career plans over time The Daily Princetonian  
-  <sub>Hiring & careers · score 16.5</sub>
-- ★★☆ [UET Lahore Announces Jobs With Salaries Up to Rs. 300,000 Per Month - ProPakistani](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDByX1BtWjhfM1Q3QTZXOWIzdnpmZ19xc0ZDZjFkVm9qaHJTWVg4QkYyRE5PbDRzeHFlSzJtMkpDZkE1am5DcXFIbVd2U3BPNlhQS2QwTWdfaG1mUkRneF9rZHdlMHJKY0NqVzg5LVBfWEJwUXFCaUpkckJrRDRwSEtnc0c3N0Q5S1ZTeTBFSzZjUkJHdlIxdnBBaEVJNWZNVU530gGoAUFVX3lxTE9uMEF5ZkhnY1RiN1ZLMXN5TGZOeWF5UXJ0Nm9ySW5Fb19mLWpnRTNiLWhMMlJpN190MmZ6eXRUTS1jYUx6ZFdyT21NeHV3Slp6WUNqUTV6U25ieldqM3V2d1VEd3pNMUctM2x1UTdVX3UtalBWRnZWTmhnV1YzTmVWNjZzVUZLd01hTlJwQ1NPc0pPWko5S3Z6aTVxLWw2NXAxMXJ4enhXcg?oc=5) — Google News – architecture jobs market  
-  UET Lahore Announces Jobs With Salaries Up to Rs. 300,000 Per Month ProPakistani  
-  <sub>Hiring & careers · score 16.5</sub>
-- ★★☆ [New exciting architecture jobs at Jessica Schuster, Burr Salvatore, Rapt Studio, Cass Calder Smith, and Carlos Zapata - Archinect](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM29Ga05oc0lYdHVDTXN4bzltaUtfUHNxRTJIZVNiMnNqU0tHTVR5dkQ1TmJkWUxoNlJRMVl4d0ptTTlzS1JZcWJsYTlpT1g2dG1nQWxxSHM4NTRsY19uYmlEX2kyQm9UOE9oQlB0dEQ4aW1CcHNnb2dMbXNWZWRWTHFFN0E4Y1hjWkdvdzdidFRNN1pMOEkySnpmN2FWaHBDaVhwVkJDbHNkTFB4aVVQY1RCcE9IVzJPNkQ0NUxxdEU4blUwb3V6STd6TlZycFYxcHRKQ0s1TnVES0haM05BeTJrQ2pXakJ2VFRqQXFCTQ?oc=5) — Google News – architecture jobs market  
-  New exciting architecture jobs at Jessica Schuster, Burr Salvatore, Rapt Studio, Cass Calder Smith, and Carlos Zapata Archinect  
-  <sub>Hiring & careers · score 13.5</sub>
-- ★★☆ [Jobs: Architectural Technologists/Technicians opportunities with growing practice - Donegal Daily](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXpSWWpSR3FnMS1pSmdveWVXSlFjY24yNDJ0RG5MS1JsRG5LS1ZEMnEtWkYwVGxaVVgwRVd5em9ycUFoX2NCUU1fOUtzemFHMllWcWNMNEVXc19raXNCaTdFRzliVXlEM1J4OE1MM004ZlhGVUd5bnZTZjVWc2NZTUI5SXM3LWlXR3hqQl8zLVpYd1BZellrVlEtb0xoMDJRV1I5RHAzWHh0TmNVNEpyQTRTWlhHbzZPTjNTbEVn?oc=5) — Google News – architecture jobs market  
-  Jobs: Architectural Technologists/Technicians opportunities with growing practice Donegal Daily  
-  <sub>Hiring & careers · score 13.5</sub>
-- ★☆☆ [NIC's fragmented IT architecture raises questions over cyber resilience - Business Standard](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1NZZmJHUEtmTTNHdktYX2NDR1dVMElWc1g1WmNBOUtDcUlWeU9OMXBVYVhBQjMwTV9ZeG1YaEpLVzRpODhZdlBOSlhsV1VMWHhTZHZTRHowblA2dzd6OUdRNS1SOGpXTzM4dXo4T095dUE4VlJteTBjcU1telpxMGVmNlJ2a1g3SGxLTURYUDFpWHJVb3ZGQW1NeEFTQVZYbGVfY3laUG5hVHZ0ZlFlR2h0UENPTGRSdWFzMWZtVkZpeXRJbnpyQjk4My1fLWZIbTBqVVJoS3ZZS2NlMDM1bXVHUUjSAeQBQVVfeXFMTzNTWWZiR1BLZk0zR3ZLWF9jQ0dXVTBJVnNYNVpjQTlLQ3FJVnlPTjFwVWFYQUIzME1fWXhtWGhKS1c0aTg4WXZQTkpYbFdVTFh4U2R2U0R6MG5QNnc3ejlHUTUtUjhqV08zOHV6OE9PeXVBOFZSbXkwY3FNbXpacTBlZjZSdmtYN0hsS01EWFAxaVhyVW92RkFtTXhBU0FWWGxlX2N5WlBuYVR2dGZRZUdodFBDT0xkUnVhczFmbVZGaXl0SW56ckI5ODMtXy1mSG0walVSaEt2WUtjZTAzNW11R1FI?oc=5) — Google News – architecture jobs market  
-  NIC's fragmented IT architecture raises questions over cyber resilience Business Standard  
-  <sub>Hiring & careers, Climate resilience · score 11.5</sub>
-- ★☆☆ [UNSW Built Environment Graduation Exhibition 2026: 'To Be'](https://www.archdaily.com/1189137/unsw-built-environment-graduation-exhibition-2026-to-be) — ArchDaily  
-  What is 'To Be?' This year’s concept, 'To Be' explores what was, what is, and what could be. Where speculation, experimentation and collaboration drive creativity and design. Opening on 4 December 2026 at White Bay Power  
-  <sub>Hiring & careers, Computational design, Ecology & landscape · score 11.0</sub>
-- ★☆☆ [Berkadia Secures $34.12M Loan to Refinance 403-Unit Workforce Housing in Kissimmee Florida - Yield PRO](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBudlBoTFhvVUVsMVJCQjRhTFBOU3BPblZ0Yld1NHlJZ3BaSldtbm1nZTRreXJsTmFLeHBtZVhUMTNyc3Q2LXhrLVV0NFp4dkE?oc=5) — Google News – adaptive reuse retrofit  
-  Berkadia Secures $34.12M Loan to Refinance 403-Unit Workforce Housing in Kissimmee Florida Yield PRO  
-  <sub>Hiring & careers, Retrofit & adaptive reuse, Global trends · score 11.0</sub>
-- ★☆☆ [First Fila 'sport-fashion hotel' opens in Shanghai; Andaz debuts in Australia with Gold Coast property - EdgeProp.sg](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaE9JdmpjNDVCUXpJTXJJSGk4WlF4SnFDXy0zZTZCMjZBcUpYNkJNbzB2WUU5d0NQV0l4am5OdUFRc1padmFOVVFwN2pLX0RCSGVWUUxJUnl4ajVNQW03UmdNYnd2bkVUSGhQcXA3WHdPbWo4MXQyR2JHem5fTmlfVnhBRmQxQnhiRUJxSVg4enRqTDFzVDZrVmdZU0lHSlZ6NHRLRGRUaUpwd0Z4WkFTbGs0X0wycTdCZnEtX1hsOVVuT0RSaTdxemtQYw?oc=5) — Google News – architect hiring Australia  
-  First Fila 'sport-fashion hotel' opens in Shanghai; Andaz debuts in Australia with Gold Coast property EdgeProp.sg  
-  <sub>Hiring & careers · score 10.5</sub>
-- ★☆☆ [Trilon Group's new Charlotte hub will create 262 jobs - Axios](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHNDVmlyRHJ5YVAtcWs4Z19Hb0F6OUR2Qm1RdkVPeVRlVEV3RDdYUnZYYmNhVmVwRWliV1JCcWd3ZU90Mklka2NsLXYwVjNxQUZNUnBZWUtReUtCenlSN3Ywem9KNkhhcFpiLU5wWDlHMXBEdEpYajVYeWFWNEVTWnBlS0VfZW1BTWFMMkRHcURKb25sNU1VMmZ2N28wOW1IS2dLczg4QlJ1cTBQ?oc=5) — Google News – architecture jobs market  
-  Trilon Group's new Charlotte hub will create 262 jobs Axios  
-  <sub>Hiring & careers · score 10.5</sub>
-- ★☆☆ [Engineering firm chooses Charlotte for $3.3M East Coast hub and 262 jobs - Charlotte Observer](https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydmpSeWpZclNncGJoY1B6Vi1xMDF2Y3ZOdm9tZFRzaVlvTjBWbVdrazRZQnNxdVpOYldYODYtTExjMWFvVGpabjBCMGVqUHZiT21YVWhESUxRTDB5czhZcm84Q0xVQlZjbnFLUkIxazl2MVJIVmfSAXZBVV95cUxOUF9UbkpULUpIRlo4bUM2NENRODc2c3FFRDY0Q1E3MmI3aHUwQ3pFdVlWbTZ1Q0hWTXF5QjlvOVNPeVNkdEx0UUdCemlyVWhJRTZkU2U0TjRpZjlBMnotWWY0cV9Jb3p1eXpSQnJHS2FZN3pvbmdR?oc=5) — Google News – architecture jobs market  
-  Engineering firm chooses Charlotte for $3.3M East Coast hub and 262 jobs Charlotte Observer  
-  <sub>Hiring & careers · score 10.5</sub>
-- ★☆☆ [Autodesk revenue rises 17% to $2.16 billion and it raises the midpoints of its full-year revenue and billings outlook - MLQ.ai](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXRHZkZqdTdfcldIS0dncU1NQW5PQlpWUFRYQlJWY050VHpRZC1vSTBoUzJKSlg3czBQMEN6cEFWU0lnUWxOR3RuWDY1SFlKZWZ4RVItTkNPSkk1LXdrYUNyMDYwUUN5X0taNnZ2UzhQNFVXdW9jMnhFZ2szX2EyOWg5WjhPWm1NX2tXdmdRVXU0MFJPcWRNNlpmVEp2MmN0ZzFwOW5qZF9PT2h4RlBIa0paZXRYbFRxNnVDYVlweDkxVVlNTkllWFFhU2g0UDQ4?oc=5) — Google News – architecture jobs market  
-  Autodesk revenue rises 17% to $2.16 billion and it raises the midpoints of its full-year revenue and billings outlook MLQ.ai  
-  <sub>Hiring & careers, Tools for architects, Global trends · score 10.5</sub>
+- ★★☆ [XPENG unveils Turing embodied intelligence architecture, advancing AI across vehicles and robots - Gasgoo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTG1hTm96NUVld1djeUgyX05nS2hrUkwyUzVmNEQ4N0I2UnBucWcyRmdSXzI2UGVHc3k1cFRWdUhLM0tGU1ppdkJjQVVDQzVPTlozUEhNOWJQNWRTRFdKeWdtX2ZOUkdvaG9jXzhOVHBsb0ROZi1PQVU4RGdzbm8xSkZmbzJ4d3ZadERROS1UekxfX19hcFEtdDU0VW5pWlcyU2gxMGFDc01TcFNYQnZOTXpBWUJRTFZadlhpc1JKRmlDcmlTbWdNRFNPcHU3STRZWGFKaGViUnhhQ3oyN0ZhRVh0V0oybFIwOEVDQQ?oc=5) — Google News – architecture jobs market  
+  XPENG unveils Turing embodied intelligence architecture, advancing AI across vehicles and robots Gasgoo  
+  <sub>Hiring & careers, Agentic / AI architecture · score 13.5</sub>
+- ★☆☆ [Consultation open on plan to boost housing density around Perth’s metro stations - ArchitectureAu](https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1hGNEhqTm5WekpZRG8yS3gxZGNaNnRQODk2WVZlSjNPSlRSWjVWSkhzVkx1ZzRYMXFNWUw4TmpiYmxEdThrQTg0S3VGVGtTdjJCUVNvQmFLVURNWFZET1cxQUtHNHMxT1ZxLUpVeW9iTXpEanBYMGZwVkVnZThSTE5kcVpNZWNhZ2E3MmFVY3NraFNkY1pQNm9YTjVWejJyMzl1aDc1VUl5aUM1eVowaXJKbTdmVGc?oc=5) — Google News – architecture jobs market  
+  Consultation open on plan to boost housing density around Perth’s metro stations ArchitectureAu  
+  <sub>Hiring & careers, Global trends · score 9.5</sub>
+- ★☆☆ [Dedicated Outdoor Air System Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlJ3UkZwSUNvRnBFSUh6V1dkMlg4VFpPOUNXbWZHY2RWNklpR25SRmY4V2ZncHdPdnpQR2x4dndMUTA4NnRqS0VpeDYtQU5tRERCSzVxc3FZSW1NNl9WMlZDU0xuODRneDVDMWM2TVRuRVNXeGgxaE5rLWZONHpTRFczc0RvclU?oc=5) — Google News – architecture jobs market  
+  Dedicated Outdoor Air System Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.  
+  <sub>Hiring & careers, Global trends · score 8.5</sub>
+- ★☆☆ [Architecture’s Four-Year Slump Has a New Twist: Clients Want to Build, but They Won’t Commit - Architect Magazine](https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzVvS2ZrLUp1dFBqS01oMUcwc2txNXNoS0hDUzBXYWM2R0hnSHI3Skw5bmNaNlM3Ujc1aVl4Z3V0ZG12NDR5SG9uMzVacm1jSzU2MWFMN0pjemRXZjY4NTNKeUJjcXcyQ1p1TWwtOWJNS1didTM5ZmFrVDhla1FJNkdrR0FtTmdEOTRyRllxaHdrOHFZVEo1NEtNRWZ0Mlp5eUNzRzdlU1VPcWpjNUhTeEZXeHhpaUlzNUlqblN3VFAwbmw0cWV4ZVFn?oc=5) — Google News – architecture jobs market  
+  Architecture’s Four-Year Slump Has a New Twist: Clients Want to Build, but They Won’t Commit Architect Magazine  
+  <sub>Hiring & careers · score 7.5</sub>
+- ★☆☆ [Parkside Villa | Studio B Architecture + Interiors - Archinect](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZUEI0SjhzN0VDV1JaNVd4dGFZcUV1TlBGekRxVHRYVGdqQ185YXlGN2ZyaWlnZmZsWlB1WWt5dGx6ZUZjOHFWUF9HVVlCU0lZeVc5OHl2UWQyMnlkWW9EMUZybGVLNlJLcGpsNmJUSVk3WFlYWGVVRlZn?oc=5) — Google News – architecture jobs market  
+  Parkside Villa | Studio B Architecture + Interiors Archinect  
+  <sub>Hiring & careers · score 7.5</sub>
 
 ## 🤖 Agentic / AI architecture
 
-- ★★☆ [Meta Brings Muse Personal AI Agent to UK With Purchase Controls - Unite.AI](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmF6TnZ3UjJMVEVqX2R0VDA2Y25nWEtBVW4zMDVyZEtoLW9vcmFpbUFfMGwwLWxNbmVndjRBZTJjVTFTTEMxQV9Zc1RSQVlpczhhcnNVZnJKTFZBRGgyMWtPRm1YMWpDbUJpWnp4S2I5a2tWQlRLZWZiNFZHWDM1T0ZfeVlTNktKQXNNeG13?oc=5) — Google News – AI agents architecture  
-  Meta Brings Muse Personal AI Agent to UK With Purchase Controls Unite.AI  
+- ★★☆ [Genspark built a five-button remote for your AI agents, and it has Cherry mechanical switches - Yanko Design](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYm43Y2NEVUdKVjhwUzFpbGpnMjlfUVNEeF9JbkZuWVZSeUl5SklqbDRoUFhQaWJzV0otak9YRUFSZ2NsRGlvdFpmUWtWTVZ4ekU5WkZOZnpQUmFWUW1CaXNGRkxhV01oblE2V2R2SlY0aEFXbmlvcS1uX0dITVB0dXAyemxucnZxbHZfTDU5Tnc4MzZCQXRyYmFXZ1kyRnF5ZTJEZ2sxSjFXa2xuVi1VSlNPY29nYmN0MGRCUEt5UGpBYVNkLVQ0UWxrUGlQeU40WkHSAdIBQVVfeXFMUGJuN2NjRFVHSlY4cFMxaWxqZzI5X1FTRHhfSW5GbllWUnlJeUpJamw0aFBYUGlic1dKLWpPWEVBUmdjbERpb3RaZlFrVk1WeHpFOVpGTmZ6UFJhVlFtQmlzRkZMYVdNaG5RNldkdkpWNGhBV25pb3Etbl9HSE1QdHVwMnpsbnJ2cWx2X0w1OU53ODM2QkF0cmJhV2dZMkZxeWUyRGdrMUoxV2tsblYtVUpTT2NvZ2JjdDBkQlBLeVBqQWFTZC1UNFFsa1BpUHlONFpB?oc=5) — Google News – AI agents architecture  
+  Genspark built a five-button remote for your AI agents, and it has Cherry mechanical switches Yanko Design  
   <sub>Agentic / AI architecture · score 16.5</sub>
-- ★★☆ [Predict Pro Outlines Its Web4 Ecosystem Vision, Connecting AI Agents, Prediction Markets and Human Participation - StreetInsider](https://news.google.com/rss/articles/CBMihAJBVV95cUxOc29wdE53YVVwMnE3V28zaUl3WTloTTFLTG5JTUR4TUVGYjBqU1p2OG00Ymg1anAybGtPa0VDYUJRZ2hTOWo5d0tUZHI2QjVtLTJkR2t2ZEpoVzhZZ295UDZkOUVQdkJNX3k5TWtubGhoMnlOYmctSk11TGhBYjl0eUo0N1k1TzlRZHJaNkszdXhGRXQ4LXNVenMyZlp2MmlERFk2Zk5JcWloVmRCR2psaS05SjZYUDBDaXlDTG45c0xGX1FsdHB2S1Y1RWhabGdrNHN1NlJiN05qWGRIcGg1MGJzQ1hjU0FJcDl4QjVhNnlEcXM3YmxKUkM2X2lZdjBoWE1Wbg?oc=5) — Google News – AI agents architecture  
-  Predict Pro Outlines Its Web4 Ecosystem Vision, Connecting AI Agents, Prediction Markets and Human Participation StreetInsider  
-  <sub>Agentic / AI architecture · score 16.5</sub>
-- ★☆☆ [Pentagon Pushes Zero Trust and AI Cyber Defense - Wisevoter](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTRwa2F6ci1scG5lUExRRzhvUHlwbWRnU0JETkVHZUxESm9BZUlELTEzUWVXTlhfZmVaSmJBeFVBcmM5X0lqdkl2d0NCZlMxWFh6UEFSVktMM1BOcjQ2QmRSSV9RWjExTWx2aVFOZnl5ak9JY3F5LUw0MVRFdm9CSDZPc0U?oc=5) — Google News – architecture jobs market  
-  Pentagon Pushes Zero Trust and AI Cyber Defense Wisevoter  
+- ★☆☆ [Is the demand for AI skills creating AI dependency? - TechTarget](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdwVzRNV2Yzdmk1alhBNDc4UnhDdG9lOWc1ZXVkSkgxbkk1ZWFrdndTWXNBeHJwYUlJS0Z3cTNoZV9UVUxvU1lYNEMwMzA2UE4wMFR6UF9hOG40LUhHN0xqalp2XzBreVZQUjQ2ai1VR0JibWRnbzlaamVmLUw3Ujk1ajV3aVg5TWpGWkpUTktJSmZT?oc=5) — Google News – architecture jobs market  
+  Is the demand for AI skills creating AI dependency? TechTarget  
   <sub>Agentic / AI architecture, Hiring & careers · score 10.5</sub>
-- ★☆☆ [Agent-Native Execution Layers Restructure Intent, Gas, Authorization, and Settlement for AI - The Detroit News](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelRhd1lBZFlxREp4OTdTdHRZZVFvM1M0b2xqQzZLQnAyS2JKVEgyb3ZER3o2U29sSVA4RG8ta0tlbUZOWjdkNGFZSWVuR0h6N0ZRR1hBcEJTa1N1MXFlVVFoYkd1Nkt4S3RjcmVUMzZqNndxd1cwaVA4d3k4eWkxYXFmZ0lQNEFmUVVMNURQbzlrTjZkZlJpWm0tZ3RVaHV5cU5pNmc1SFpLa2lwTS1ONGp0Q25VRDNydzlLZnU2TVBKSVlzX0lHRGtoYzlCVnBOYUpCM3VXcEFUMlM3?oc=5) — Google News – AI agents architecture  
-  Agent-Native Execution Layers Restructure Intent, Gas, Authorization, and Settlement for AI The Detroit News  
+- ★☆☆ [Ambarella Brings Liquid AI Models to Edge Chips for Physical AI - Unite.AI](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnhlV0ZxZ0ljeXVMcERlQ1R5cEd6QS1UMWVteFdmNDhzNjMtZV8xSTI1aVFoMlB0S2pXNWp3U1ZpUmIyblhzZGdFWTM0a1VDQjFobE9ONFQ4SlJGWmtPU01DcjFIUlZzVnEya2lBVWFYREZobEhpMU1SUl9SeFItNFNZMXp5Ulc5aHNxLW93?oc=5) — Google News – AI agents architecture  
+  Ambarella Brings Liquid AI Models to Edge Chips for Physical AI Unite.AI  
   <sub>Agentic / AI architecture · score 10.5</sub>
-
-## 🧮 Computational design
-
-- ★☆☆ [How Parametric Design Can Help Cities Beat the Heat - Realty Plus Magazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E5VUstcUltWkE0ZUVXelFxRkJ5TTJDamxxUzU2VkJtMkhNNE5nVWQwakZhZXYwbnRWclAxQzZ6UmVNVjgwVUxISmM3R1JVaTFUd0FJczlSWTVGc2ctTU5KQVE3dTFyMy1CSFg4THhTcUhwMy0xRkNBSk12UUhISFdyYnU3SVZNaUVvaDJia1pncmFIcEtZUUlvZDRVTWRwY2tCeGhR?oc=5) — Google News – computational design  
-  How Parametric Design Can Help Cities Beat the Heat Realty Plus Magazine  
-  <sub>Computational design · score 10.5</sub>
+- ★☆☆ [Building AI for a Fragmented World - IT Brief UK](https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNTZIR1lndTNPYjZFS3NxaExQckllVndkSlNCTG5rZzRjQmZXZnJzaVByUUIzbEpUS2xRaDNXcWxuZXVEYTNkUFlqc3pLU3ZIM3BJSEZTZkxNczNEdVpoRXU4STFCbngwUmNHRDZpYw?oc=5) — Google News – AI agents architecture  
+  Building AI for a Fragmented World IT Brief UK  
+  <sub>Agentic / AI architecture · score 10.5</sub>
+- ★☆☆ [Two-layer graph retrieval for residential energy and indoor environmental data queries: Verification of LLM-generated calculation plans](https://www.sciencedirect.com/science/article/pii/S0360132326014289?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: Available online 25 November 2026 Source: Building and Environment Author(s): Taehyun Park, Jae Young Jung, Woonjung Kim, Hakjong Shin  
+  <sub>Agentic / AI architecture, New research · score 9.0</sub>
+- ★☆☆ [A hybrid fuzzy Bayesian network with LLM-assisted knowledge elicitation for fault detection and diagnosis in air handling units](https://www.sciencedirect.com/science/article/pii/S0360132326014198?dgcid=rss_sd_all) — Building and Environment (journal)  
+  Publication date: Available online 24 November 2026 Source: Building and Environment Author(s): Ziao Wang, Chujie Lu, Martín Mosteiro-Romero, Arjen Meijer, Shalika Walker, Laure Itard  
+  <sub>Agentic / AI architecture, New research · score 9.0</sub>
 
 ## 🦾 Digital fabrication & robotics
 
-- ★★☆ [Image-guided robotic workflow for automated mortar joint reconstruction in regular and quasi-regular face brick masonry](https://www.sciencedirect.com/science/article/pii/S0926580526006217?dgcid=rss_sd_all) — Automation in Construction (journal)  
-  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Andrea Vecchi, Alessandro Ricciutelli, Valentino Sangiorgio  
-  <sub>Digital fabrication & robotics, Tools for architects, New research · score 16.0</sub>
+- ★☆☆ [SK ecoplant selects 7 companies in open innovation competition - Chosunbiz](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXZLRDlRZ3pJMGY4Y1NNRkFLcDQ0V0hsb0hubUJXTzlRZ29YQTJzLWJkYlhac1drOWROc0dkMzBUUGtyb0hKR05uWUlhWi03TEhXTlVOdUYyRnlPT0RIb0ItT1Y4dEVfeGpPTzhIamgxU0RURXZ3dWNtR1hzU3ExWkIzZGjSAZgBQVVfeXFMTmM1cEctYkFMU2xXTW5NY1Z1b0JrSEZCajBuRUw2Vnp2N2FyNVd4eXp0emIwaXZPVkVzYW1pMDQ1RXNlM3hnaDlVNF9GMHJvalkyR0Jjb0xzcGEyZS1XSkMtYUlocDhVWGNlWnZxX0ZOWF9ETjl0NzJFdllEaWNtZUp5c2U3V2R0dDkwYmdSYlRVVl85UEcyX3U?oc=5) — Google News – robotic construction  
+  SK ecoplant selects 7 companies in open innovation competition Chosunbiz  
+  <sub>Digital fabrication & robotics, Global trends · score 6.5</sub>
 
 ## 🌱 Sustainability & low carbon
 
-- ★★☆ [U.S. Senate committee backs mass timber housing demonstration in fiscal 2027 spending bill - Lesprom Network](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnNRZllhVFMyaVBoQnNsLTVWYUZOdGdfOHI5TlV4QnlkUW9YZXF3aEFnVVZ0RmZvSndQNmJLLVQyclFPNHV2MFA0WHZ2a1dSbmQwTlNFNUI1VWNHM3I0bkl1LUdfTHFDeU5NMnlpQzVUZ2tlbVZpUVlBdjJKZERka2thSmVNcFJwMFRFRFpCdUMtWmYtb0NCVUg3c2Zlblkta19BaVRLbjlsM0JSSzZqQk1DaWZyYlBlY1dVbFFEUmQ5WTNEMHVWbw?oc=5) — Google News – mass timber & low carbon  
-  U.S. Senate committee backs mass timber housing demonstration in fiscal 2027 spending bill Lesprom Network  
-  <sub>Sustainability & low carbon, Global trends · score 18.5</sub>
-- ★★☆ [Washington Could Pay Up to $20,000 a Home Built in Mass Timber - Wood Central](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aTEhOWGNJWDJFR3l1alMtM2pXbUt6NjNWaXN0NVBoVmY3MW05cGpPTlpjWG91bUZpcFBrOVF5djZjRDBFU1VXVlhoal9xeElfWXNlRnlVNlJaS3RUVk56eG9qaTJsZw?oc=5) — Google News – mass timber & low carbon  
-  Washington Could Pay Up to $20,000 a Home Built in Mass Timber Wood Central  
+- ★★☆ [Mass Timber Office Building Trades in Atlanta - Connect CRE](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3BlbnJ3Si1OdUVzeE5FNTNESFdCLV9VWVU0cFJ2VXRiS1ZocnV4X2FzOXBlNldRTkJUT0hIZXp0Z0h4eFczMm4ydjZEUEZlRnBDRnEwaFlHYjNtM0w4VzRFdTNiVk5ucHlwSlJVWkg4a3J0M0lhZWdCTDU2anJraUFVZk4wQlRR?oc=5) — Google News – mass timber & low carbon  
+  Mass Timber Office Building Trades in Atlanta Connect CRE  
   <sub>Sustainability & low carbon · score 16.5</sub>
-- ★★☆ [American Wood Council applauds Senate committee's proposed mass timber funding - Woodworking Network](https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHJoLXlHckVweWhoakdoRVl2dnlEcmhFSE5BZDQ5NzZtRVc3dVNLMlZhRUZLZWNMcVk3dzhaa2FqZ1YwaDNqdkpoUm1Ud294M2QxaktsNVNXeVYyYXJvVWczVXpZRm1Cb0d4UlVOeERGYnZVUzFWbjZYSmFHTUhLa2l3S1JJY09hRVp1Ti1Bc3otN3dyVnVwNUdRV2tKb09na21VME1Jejh3RHhlUGh2SF9BbFN0eF9OWjluZlE3Nk9PWW9ES1BJ?oc=5) — Google News – mass timber & low carbon  
-  American Wood Council applauds Senate committee's proposed mass timber funding Woodworking Network  
+- ★★☆ [Studio Gang’s Williams Bay Campus Uses White Oak and Mass Timber for Women Leaders - freeyork](https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ZndVYlZ5TGszb2Qyb3ZCTktFWWNXZC1XU1RlMTJEUWJSU3huRUhHTy1zQTRkM0pBVEJ5MVNUcWlkMkg3MkV1Nl93azV2cjNuSmgzdFFPRHhTTXJlUTRDZVk1cm5WeFN1Z2x3WGoyVzYzM3NsS3ZXcA?oc=5) — Google News – mass timber & low carbon  
+  Studio Gang’s Williams Bay Campus Uses White Oak and Mass Timber for Women Leaders freeyork  
   <sub>Sustainability & low carbon · score 16.5</sub>
+- ★★☆ [US Senate draft proposes US$20m for mass-timber housing and code changes - Fordaq](https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZVVXVlYzc3pwS250a0M4RklyeEpvT055b0xLY01SZnpHNjFBSjF5YW1reTJIS2J3TGRTTkNLSFFrclNUOGFydmRHZjVqWm1LM2Z6NHpTTGFmMV9tUkxMSFMyN1d1Z0xQd213eWhiWTZxUkt1SFhraF9n?oc=5) — Google News – mass timber & low carbon  
+  US Senate draft proposes US$20m for mass-timber housing and code changes Fordaq  
+  <sub>Sustainability & low carbon, Global trends · score 14.5</sub>
+- ★☆☆ [Melbourne’s Build-to-Rent Timber MODEL Grabs the World’s Attention - Wood Central](https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ZVpubHhXNHN5aEpkVExBMnlYc3ZrVnZQVXdGSTZUV0pMdkZlOWR1aWJVU1RucGJGaHdSWktVeldJM3N5UlR0Tkc4Umc5OEtVVnIzUTlhNGlZWURBRlJRVWo4N0Q4NGEyd0FubQ?oc=5) — Google News – mass timber & low carbon  
+  Melbourne’s Build-to-Rent Timber MODEL Grabs the World’s Attention Wood Central  
+  <sub>Sustainability & low carbon · score 10.5</sub>
+- ★☆☆ [Cowper Street Housing I GroupGSA & JPW - Architecture & Design](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUVfTUpHSDRtY2FvMVJLTWFKbWI1UXppMVVuLVZxRU5feGs3bjBDbzdyVExxalNyMEpZVG80ZnB0UUVrUDlRR2dKUUxSTlhLc1NLd2NwdVI5emVyUWRkczdhZmoycnFQNzc3V2Z5dF9oQmlYVkstRU5ydVpCd1AwWkNIenh0Ym11Umt3?oc=5) — Google News – mass timber & low carbon  
+  Cowper Street Housing I GroupGSA & JPW Architecture & Design  
+  <sub>Sustainability & low carbon, Global trends · score 6.5</sub>
 
 ## 🌊 Climate resilience
 
-- ★★☆ [8 Climate Adaptation Grants to Explore for Locally Led Pilots - fundsforNGOs - Grants and Resources for Sustainability](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFF2QjNZM2tUUE5aR1c2X0hjY0owSG1vOVh6ZzJwYzQzNXBidkxRZFAwTFExVVdkLTVjSk13ZnJzSC1oc0ppSExMblZKeEcyQ0FZa0V1X1ppVXVTX1VrUDlmNEpaZFRkOF82QU5Ecm9YUjVkTVp3aGNkcnNlM2plUlRfTnVqY1EyUUVOcTdfUFR5X0RHR2hhaEhvaGtsb2t4WEhSU0wxbWFheE5PbDhOamlNQWd2Y3RaVXlRWVZOTFpzazJJRnhjQtIBzgFBVV95cUxQNk9YQ003Z1E5ZGdmbjJ0VHdKY2l1dFJpUU1NY2hZbjd2ZExlX3Bqdnc1cHJHNWV5b1AyRS1uaENlRDY3NmVZZnVEbi1jVVdFVWJ2dk9FZmxYSzBuOW54eEU5VjdkNUZHOTU0UXozMFo4eW5QaGV2RllOX180ZkJDRHVzcDlNMXhFLWFfeXVvSUdLLUNCamd6c09hRmJHYlBIY0xaNm02UFk0QUJIbGxDdjhMWHJEY2YwNWQ3TXBaS2FRNGlycFJ3NWJ6MHhBUQ?oc=5) — Google News – climate resilient architecture  
-  8 Climate Adaptation Grants to Explore for Locally Led Pilots fundsforNGOs - Grants and Resources for Sustainability  
-  <sub>Climate resilience, Sustainability & low carbon · score 17.0</sub>
-- ★★☆ [Vietnam helps shape a global framework for climate-resilient and low-carbon health systems: WHO - Vietnam+ (VietnamPlus)](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNODJYd25FVVVSMUpRdWtTTGVxMlR0WlRxSWFrVWdBRTRGaHREUzkyYTBMUnREOE42MFRyMlE0c3RwaUVGa3pSaWhEYTY1VUV4MDR5VjAyYjRXWFE2allmWVZmM3hSM1FkRGJZNmNmWHVNSFNBVGhnSVM3dkczdEFoQlhRWkRxY192UTlDRk9ZVHV2Q05FMk12cVNsczA5QllndXd0TXl3Nl9rM2lFeGZLMkg2MTNRVWU4dm5fa0dmblpBM3dwemJVRS1NbG9NdFc3?oc=5) — Google News – climate resilient architecture  
-  Vietnam helps shape a global framework for climate-resilient and low-carbon health systems: WHO Vietnam+ (VietnamPlus)  
-  <sub>Climate resilience, Sustainability & low carbon · score 13.0</sub>
+- ★☆☆ [Climate adaptation: South African teams show why better solutions start with understanding local problems - The Conversation](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR2k1RkN6MUkyTnpNSFJDZlF4OVdFZm9YRXdfOGhvWG1JaWhmVklNRXF0Z3RrMGdBbzZJZUdmOTRKZHJOODNmWUZ3MEZybFM0eVN2V2ZBYzd5T2ZLVlNKYjNiaU5xQ1JULTJ6S1lId2x3cFpvdUlZWlZGUzZLUnZhUWtHUlpLX1VNRjFKVE10c1lHOFpCeHQxcTlmWVNRaS01eGwyM2Z2YUcyQVJHREtTam5CX2k0OGMyVF9WamJvTFFpTzhwY0h5WVNNdkRlWFVBWXJBLV9R?oc=5) — Google News – climate resilient architecture  
+  Climate adaptation: South African teams show why better solutions start with understanding local problems The Conversation  
+  <sub>Climate resilience · score 11.0</sub>
+- ★☆☆ [Investing in climate-resilient, energy-efficient buildings will benefit lower income households the most - European Environment Agency (EEA)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2pzTU5uaHUwekpNSWJjWXVvQy1GVHV6Z2JCRWhGMXZ4aFlEOVpBVEZQb3RmTEI2TFFQQVJ1TUt3aWJCbTg3bGVyMDM3OTVaelN3Mlk4eW5FU2h2b2xwQUlBQjR3eDBjemVwV2M2bDhUQUhGcFJQSFBiNENtcHJqZzN4bElYVjVTa2lLaU5WWWpqWGRFZHp3bWcyeHV0MWFONENfWV9BaHBfRlpaTFJPOEMyaVdLeDJJNC1tekVHMk1JQ2o3S040TE5GbDZrWm4zLXZydFNhNXFMclc3aUxB?oc=5) — Google News – climate resilient architecture  
+  Investing in climate-resilient, energy-efficient buildings will benefit lower income households the most European Environment Agency (EEA)  
+  <sub>Climate resilience · score 7.0</sub>
+- ★☆☆ [Beyond Water Conservation: Building a Climate-Resilient Philippines During Super El Niño - https://ditosapilipinas.com/](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcEVkRzA3ejBvZElYUTRua0xYbFV1YjNKSHBOMjllQS0wYkQwa0FuVXowMXR0WjNrTDZjMl9uS2xQWHBRMTAwU211Y29EZUs0ZmpWZWJKUHdaWmw0NGdDZ0tER0dyZFZhZnhXTzFkbEZ5alhEVjNPZ3M1dmxtMG5aOU1tcE5IWlJ3aHRIZUU4dmFvY0ZielZ2bW5wYmJNTDE4VEViTFhnUDZDX0VSWWNTQm1sN0FkWnBUdlVaODlITUxUam83RmlpbTYtek03eExBZHZ0ejJPNUZ1anhBZHV4SmRVOXdNMU5N?oc=5) — Google News – climate resilient architecture  
+  Beyond Water Conservation: Building a Climate-Resilient Philippines During Super El Niño https://ditosapilipinas.com/  
+  <sub>Climate resilience · score 7.0</sub>
+- ★☆☆ [GIZ, PepsiCo India and Bayer partner to advance climate-resilient maize farming in India - AgroSpectrum India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTdBU1VLdUdDRDAtbDB3bTdsU0lDZ2VZSzJGY01sOTRyQnlENEpZdnNJOFNLcHFMVW8xelBoNE1kZTlzLVk1cVBNZ0l3TzdVT3BrcElkdEUzZzJyc1ItQTcxRk1WR3NZeGRJaEdpSUdaa054MVhEUElWcEVjV1E2SnIybUNFZ0c4OXo1aXZxNUhib2EyTjRYbzJseFU5cWh5QlNzbW1adWJUSGFHYk1iZGZ2RlJHeGxwUlVqMGVNNVBsTi1VV2p4dllUVVg5RkVramc?oc=5) — Google News – climate resilient architecture  
+  GIZ, PepsiCo India and Bayer partner to advance climate-resilient maize farming in India AgroSpectrum India  
+  <sub>Climate resilience · score 7.0</sub>
+- ★☆☆ [‘Africa should build climate-resilient cities’ - Herald.co.zw](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTJEYU5FN2ZLUkQ1NksxOVVpbWM5Y3RSbUFrQ2MyT0laLW50OG9BUlZmMHpoemMxcGdjVDBlUHI0N25IXy1oZGlrd0kxcmRhSHV0UkNqcGdsMlhqcUNNeXlweTgyTHYtY2gxN3M4dENjNlZ6amFMZ2NoajhrMzBqbWlB?oc=5) — Google News – climate resilient architecture  
+  ‘Africa should build climate-resilient cities’ Herald.co.zw  
+  <sub>Climate resilience · score 7.0</sub>
 
 ## 🏚️ Retrofit & adaptive reuse
 
-- ★★☆ [Taj Sawai Man Mahal, Jaipur: Reinterpreting Rajputana heritage through adaptive reuse - Hotelier India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHJmdjdnRzJsSW9BdEZBWTltc3JaeXplQXEwMTdlZDh1R3pQR1lFSjdUV0tmV25qTkhIeGRpRmM1ck83NWppcjNveUtNbklIelB3LW1XWlBWZG9WY2JfamQ2V0UxWkNnM1BKeThlM2xjSEl4aFE0MjZvVUFMdXZJSF9CLU1nU2N6ODNfZDBmWV9fWGhuLTI2cTl6NHRWLUpHX1M1X0tlZTlsb0pJanhhbmtNZHNQbUc4OHBTTHBINEpJUQ?oc=5) — Google News – adaptive reuse retrofit  
-  Taj Sawai Man Mahal, Jaipur: Reinterpreting Rajputana heritage through adaptive reuse Hotelier India  
-  <sub>Retrofit & adaptive reuse, Sustainability & low carbon · score 17.0</sub>
-- ★★☆ [‘Like Foraging in the Woods’: Adaptive Reuse Still Challenging for Senior Living Operators - Senior Housing News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFZROTZaVlJ0STl1WGpXeG05aFZWTElEZjRIUW15UXh0UWpnT3d0SUNHMGZhdldWUzllMGtaNEhwMXN1TG12TWxieGhaM2RjTk56TGxvMkRSQlNMYXpkb1h2UmE4aHBIMTdHb1Jiam43bTZYMUNNOVh1YjFBdWpFaWJ5cXJVbjdtWU8xWEplR2ppcUlDY0QxcjIwM3daQ0hWTXoyX256MGFGVExZNGI0RnhRNGQ1QzR1dktqd2lmekdTSldpc1ZCLQ?oc=5) — Google News – adaptive reuse retrofit  
-  ‘Like Foraging in the Woods’: Adaptive Reuse Still Challenging for Senior Living Operators Senior Housing News  
-  <sub>Retrofit & adaptive reuse, Sustainability & low carbon, Global trends · score 15.0</sub>
+- ★☆☆ [Jiujiang Ferry Cultural Complex Renovation / TURTLEHILL DESIGN - ArchDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHZmR0J0R0tFVno3WGxHOUp0dGo2QzVrZjhqSERkYjhVMm96cUYzVG9vdGF5T05MV3ZMQWZ2SG1wbW5KQThjRWZtU09TYVhPYV9LZ2RqX2JkMU82Y0JQek51M2JxajFjMU5CbEtYR29lZEVBXzFHcWR6OWMtNUgzXzJfZzNWTEV1bmN2ZnZhV3J6cGhHdklVc2hmVFJTbmxOa3ZTbzNuR1FoQXZqQi1yNA?oc=5) — Google News – adaptive reuse retrofit  
+  Jiujiang Ferry Cultural Complex Renovation / TURTLEHILL DESIGN ArchDaily  
+  <sub>Retrofit & adaptive reuse · score 7.0</sub>
+
+## 🔬 New research
+
+- ★☆☆ [Systematic study of the performance of small robots on controlled laboratory substrates](https://arxiv.org/abs/2611.33702v1) — arXiv – architecture & fabrication  
+  The design of robots able to locomote effectively over a diversity of terrain requires detailed ground interaction models; unfortunately such models are lacking due to the complicated response of real world substrates wh  
+  <sub>New research · score 11.0</sub>
+
+## 🛠️ Tools for architects
+
+- ★☆☆ [Locate-then-measure workflow for automated candidate-site crack-width estimation in concrete bridge decks](https://www.sciencedirect.com/science/article/pii/S0926580526006321?dgcid=rss_sd_all) — Automation in Construction (journal)  
+  Publication date: January 2027 Source: Automation in Construction, Volume 193, Part 2 Author(s): Liangwei Ma, Huating Chen, Dongsheng Li  
+  <sub>Tools for architects, Digital fabrication & robotics, New research · score 10.0</sub>
 
 ## 📈 Topic trend (items in last 7 days)
 
 | Topic | Count |
 |---|---|
-| Computational design | 21 |
-| Agentic / AI architecture | 124 |
-| Digital fabrication & robotics | 21 |
-| Sustainability & low carbon | 93 |
-| Ecology & landscape | 22 |
-| Climate resilience | 79 |
-| Retrofit & adaptive reuse | 72 |
-| New research | 75 |
-| Tools for architects | 25 |
-| Hiring & careers | 114 |
-| Global trends | 72 |
+| Computational design | 17 → (prev 21) |
+| Agentic / AI architecture | 114 ↑ (prev 77) |
+| Digital fabrication & robotics | 19 ↓ (prev 103) |
+| Sustainability & low carbon | 83 ↑ (prev 48) |
+| Ecology & landscape | 22 → (prev 18) |
+| Climate resilience | 74 ↑ (prev 39) |
+| Retrofit & adaptive reuse | 67 ↑ (prev 36) |
+| New research | 74 ↓ (prev 206) |
+| Tools for architects | 17 ↓ (prev 31) |
+| Hiring & careers | 100 ↑ (prev 50) |
+| Global trends | 74 ↑ (prev 31) |
 
 <details><summary>Feed errors (6)</summary>
 
 - The Architect's Newspaper: HTTPError: HTTP Error 403: Forbidden
+- Archinect News: ParseError: junk after document element: line 704, column 0
 - ArchitectureAU: ParseError: not well-formed (invalid token): line 56, column 46
-- Archinect News: ParseError: junk after document element: line 698, column 0
-- Dezeen Sustainability: HTTPError: HTTP Error 404: Not Found
 - Dezeen Jobs: HTTPError: HTTP Error 403: Forbidden
+- Dezeen Sustainability: HTTPError: HTTP Error 404: Not Found
 - Parametric Architecture: ParseError: duplicate attribute: line 8, column 45
 
 </details>
